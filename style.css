@@ -1,0 +1,157 @@
+@charset "UTF-8";
+
+body {
+    background-color: whitesmoke;
+    margin-top: 0px;
+    border-left: solid;
+    border-right: solid;
+}
+#header {
+    text-align: center;
+    height: 38px;
+    width: 100%;
+    background-color: black;
+}
+
+#ubilogo {
+    float: left;
+    margin-top: -5px;
+    margin-left: 5px;
+    
+}
+
+#menu {
+    float: right;
+    padding: 5px;
+    height: 28px;
+    width: 30px;
+    background-color: rgb(143,21,19);
+}
+
+#folder {
+    background-image: url("imagens/farcry3_hero_desk_Desktop_137015.jpg");
+    background-size: 100% 100%;
+    width: 99,5%;
+    height: 280px;
+
+}
+
+#farcry3 {
+    width: 180px;
+    height: 35px;
+    position: absolute;
+    left: 70%;
+    top: 255px;
+}
+
+#more{
+    margin-top: -16px;
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    background-color: rgb(143,21,19);
+    height: 16px;
+    opacity: 0.7;
+}
+
+#requisição {
+    float: left;
+    padding: 20px;
+    width: 20%;
+}
+
+#imgrequi {
+    width: 150px;
+    height: 180px;
+    background-color: whitesmoke;
+}
+
+
+#Visão {
+    margin-top: 20px;
+    float: left;
+    background-color:   rgb(198,26,22);
+    width: 35%;
+    height: 27px;
+    padding-left: 5px;
+}
+
+#recursos {
+    margin-top: 20px;
+    padding-left: 5px;
+    float: left;
+    background-color: black;
+    width: 35%;
+    height: 27px;
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8px;
+    color: whitesmoke;
+}
+
+h5 {
+    margin-top: 55px;
+    font-style: italic;
+    color: rgb(198,26,22);
+
+}
+
+#textos {
+ padding: 20px;
+ height: 180px;
+}
+
+#paragrafo {
+    font-size: 9px;
+    color: black;
+}
+
+.lista {
+    font-size: 10px;
+    margin-left: -150px;
+    margin-right: 45px;
+}
+
+#dados {
+    float: left;
+}
+
+#dados2 {
+    margin-left: 5%;
+    font-size: 10px;
+    color: rgb(198,26,22)
+}
+
+#dados3 {
+    margin-left: 5%;
+    font-size: 10px;
+    color: gray;
+}
+
+#dados4 {
+    margin-left: 5%;
+    font-size: 10px;
+    color: rgb(198,26,22);
+}
+
+#dados5 {
+    margin-left: 5%;
+    font-size: 10px;
+}  
+
+#dados6 {
+
+    font-size: 10px;
+    color: gray;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+}
